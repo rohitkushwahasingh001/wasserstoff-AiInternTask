@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+groq
+langchain
+faiss-cpu
+pdfplumber
+Pillow
+pytesseract
+streamlit
+python-dotenv
+chromadb
+pandas
